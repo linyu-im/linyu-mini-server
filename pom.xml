@@ -55,7 +55,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.108.Final</version>
+            <version>4.1.118.Final</version>
         </dependency>
 
         <dependency>
@@ -74,7 +74,7 @@
         <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-boot-starter</artifactId>
-            <version>3.5.3</version>
+            <version>3.5.8</version>
         </dependency>
 
         <!-- SQLite JDBC -->
@@ -94,7 +94,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.8.18</version>
+            <version>5.8.21</version>
         </dependency>
 
         <dependency>
@@ -146,7 +146,7 @@
         <dependency>
             <groupId>com.volcengine</groupId>
             <artifactId>volcengine-java-sdk-ark-runtime</artifactId>
-            <version>LATEST</version>
+            <version>0.2.20</version>
         </dependency>
 
     </dependencies>
